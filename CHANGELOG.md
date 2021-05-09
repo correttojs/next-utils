@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.21](https://github.com/correttojs/next-utils/compare/v0.0.20...v0.0.21) (2021-05-09)
+
+
+### Features
+
+* init ([a8ee4ab](https://github.com/correttojs/next-utils/commit/a8ee4ab383b44e19bd0501c2cf7318283716eee3))
+* name ([a9cc882](https://github.com/correttojs/next-utils/commit/a9cc8824e53f0d7d7be65a0ff090f76101eb5fc3))
+* wip ([922b81b](https://github.com/correttojs/next-utils/commit/922b81b0834d5ab05932bc4f04ea57b76bdc5f38))
+
 ### [0.0.20](https://github.com/correttojs/next-utils/compare/v0.0.19...v0.0.20) (2021-05-09)
 
 
