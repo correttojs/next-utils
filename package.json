@@ -1,6 +1,6 @@
 {
   "name": "@correttojs/next-utils",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "description": "Next utils",
   "license": "MIT",
   "scripts": {
@@ -28,7 +28,6 @@
     "@testing-library/react-hooks": "^5.1.2",
     "@types/jest": "^26.0.23",
     "graphql": "^15.5.0",
-    "graphql-request": "^3.4.0",
     "jest": "26.6.3",
     "next": "^10.2.0",
     "react": "^17.0.2",
@@ -52,5 +51,7 @@
     "url": "https://github.com/correttojs/next-utils/issues"
   },
   "homepage": "https://github.com/correttojs/next-utils#readme",
-  "dependencies": {}
+  "dependencies": {
+    "graphql-request": "^3.4.0"
+  }
 }
