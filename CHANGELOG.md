@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.26](https://github.com/correttojs/next-utils/compare/v0.0.25...v0.0.26) (2021-05-09)
+
+
+### Bug Fixes
+
+* tests ([38c6e7a](https://github.com/correttojs/next-utils/commit/38c6e7a3fa507236a8fd1a06bd54cd10acc9e745))
+
 ### [0.0.25](https://github.com/correttojs/next-utils/compare/v0.0.24...v0.0.25) (2021-05-09)
 
 ### [0.0.24](https://github.com/correttojs/next-utils/compare/v0.0.23...v0.0.24) (2021-05-09)
