@@ -23,15 +23,19 @@ module.exports = {
   resolve: {
     extensions: [".tsx", ".ts", ".js"],
   },
+  experiments: {
+    outputModule: true,
+  },
   output: {
-    // library: "someLibName",
-    libraryTarget: "umd",
+    library: {
+      type: "module",
+    },
     filename: "[name].js",
     path: path.resolve(__dirname, "dist"),
   },
   mode: "production",
   externals: {
-    "react-query": "commonjs2 react-query",
+    // "react-query": "commonjs2 react-query",
     "@graphql-typed-document-node/core":
       "commonjs2 @graphql-typed-document-node/core",
     "graphql-request": "commonjs2 graphql-request",
