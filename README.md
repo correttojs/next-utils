@@ -1,1 +1,1 @@
-# react-query gql
+# Next utils

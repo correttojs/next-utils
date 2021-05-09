@@ -1,6 +1,3 @@
 node_modules
 .vscode
-!/dist
-/dist/*
-!/dist/eslint-config
- 
+/dist
