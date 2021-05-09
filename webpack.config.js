@@ -35,7 +35,7 @@ module.exports = {
   },
   mode: "production",
   externals: {
-    // "react-query": "commonjs2 react-query",
+    "react-query": "commonjs2 react-query",
     "@graphql-typed-document-node/core":
       "commonjs2 @graphql-typed-document-node/core",
     "graphql-request": "commonjs2 graphql-request",
