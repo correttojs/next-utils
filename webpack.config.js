@@ -28,7 +28,7 @@ module.exports = {
   },
   output: {
     library: {
-      type: "module",
+      type: "commonjs2",
     },
     filename: "[name].js",
     path: path.resolve(__dirname, "dist"),
