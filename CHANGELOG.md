@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.29](https://github.com/correttojs/next-utils/compare/v0.0.28...v0.0.29) (2021-05-14)
+
+
+### Features
+
+* commonjs ([e64d551](https://github.com/correttojs/next-utils/commit/e64d5517c053b8d37d494188bb72a5a185eb061f))
+* webpack ([31c5e9b](https://github.com/correttojs/next-utils/commit/31c5e9b0114657560f175f12ca29f2b2a1f9ef4a))
+
 ### [0.0.28](https://github.com/correttojs/next-utils/compare/v0.0.27...v0.0.28) (2021-05-09)
 
 ### [0.0.27](https://github.com/correttojs/next-utils/compare/v0.0.26...v0.0.27) (2021-05-09)
